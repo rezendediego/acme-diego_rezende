@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02e789ab-e0bd-4a8a-a37e-dd2f13e1639b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-Acme-Atividade03_DiegoRezende.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/RunnerCarrinhoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/builder/CarrinhoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/utilitarios/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/utilitarios/config/ClientesAcmeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_03/utilitarios/config/ProdutosAcmeConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SN6s93zPsn8trbem9ra4dn255u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/diego/Documents/____POS-GRAD_ENG_SOFT_JAVA_INFNET_____/CleanCode/Projeto/acme_diego_rezende_atividade_03"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\Documents\____POS-GRAD_ENG_SOFT_JAVA_INFNET_____\CleanCode\Projeto\acme_diego_rezende_atividade_03" />
+      <recent name="C:\Users\diego\Documents\____POS-GRAD_ENG_SOFT_JAVA_INFNET_____\CleanCode\Projeto\acme_diego_rezende_atividade_03\src\main\java\br\com\acme_diego_rezende_atividade_03\repository" />
+      <recent name="C:\Users\diego\Documents\____POS-GRAD_ENG_SOFT_JAVA_INFNET_____\CleanCode\Projeto\acme_diego_rezende_atividade_03\src\main\java\br\com\acme_diego_rezende_atividade_03\utilitarios\config" />
+      <recent name="C:\Users\diego\Documents\____POS-GRAD_ENG_SOFT_JAVA_INFNET_____\CleanCode\Projeto\acme_diego_rezende_atividade_03\src\main\java\br\com\acme_diego_rezende_atividade_03\model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.acme_diego_rezende_atividade_03.builder" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.acme_diego_rezende_atividade_03.utilitarios" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e789ab-e0bd-4a8a-a37e-dd2f13e1639b" name="Changes" comment="" />
+      <created>1688974898273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688974898273</updated>
+    </task>
+    <servers />
+  </component>
+</project>
