@@ -5,7 +5,11 @@
 *ORGANIZAÇÃO DAS SOLUÇÕES*
 
 branch "atividade-01"
+[https://github.com/rezendediego/acme-diego_rezende/tree/atividade-01](url)
 
 branch "atividade-02"
+[https://github.com/rezendediego/acme-diego_rezende/tree/atividade-02](url)
+
 
 branch "atividade-03"
+[https://github.com/rezendediego/acme-diego_rezende/tree/atividade-03](url)
