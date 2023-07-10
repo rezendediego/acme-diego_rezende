@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21b1d69-e1ff-42ea-9a62-ffde213a7eb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-Acme-Atividade02_DiegoRezende.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/01_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/02_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/03_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/04_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/05_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/06_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/07_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/08_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/09_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/10_sonar_Diego_Rezende_Atividade_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/RunnerLojaVirtualAcme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_autorizacao_compra/AutorizaCompraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_autorizacao_compra/CriadorFaturaParaPagamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_autorizacao_compra/RealizaCompraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_infracao/Infracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_infracao/InfracaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_infracao/InfracaoInadimplenciaAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_taxacao_assinatura/AplicaRegraTaxaManutencaoAssinaturaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_taxacao_assinatura/CriaMapaTaxacaoAssinaturaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/app/caso_de_uso_validacao_cliente/ValidacaoClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/domain/RegraAssinaturaInadimplente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/domain/RegraTaxaManutencaoAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/exception/FalhaNoGeradorRandomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/exception/PagamentoEmAtrasoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/AssinaturaAnual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/AssinaturaSemestral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/AssinaturaTrimestral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/FaturaParaPagamentoAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/FaturaParaPagamentoCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/TaxaAnualSobreAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/TaxaSemestralSobreAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/TaxaSobreAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/TaxaTrimestralSobreAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/Assinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/PrecoMensalidadeJulho2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/TipoAnual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/TipoSemestral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/TipoTrimestral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/interfaces_strategy/IPrecoMensalAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/model/assinatura_strategy/interfaces_strategy/ITipoAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/repository/AssinaturaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/repository/FaturasPagamentoAssinaturaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/config/AssinaturasAcmeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/config/ComprasAcmeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/config/FaturasPagamentoAssinaturaAcmeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/repositorio_suporte/FaturasInadimplentesSimuladasSuporteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/simuladores/SimuladorClientesInadimplentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios/simuladores/SimuladorDeCompras.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S7HSV6tSqBkKo3PDchxzYR5ck5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/diego/Documents/____POS-GRAD_ENG_SOFT_JAVA_INFNET_____/CleanCode/Projeto/acme_diego_rezende_atividade_02/src/main/java/br/com/acme_diego_rezende_atividade_02/app",
+    "last_opened_file_path": "C:/Users/diego/Documents/____POS-GRAD_ENG_SOFT_JAVA_INFNET_____/CleanCode/Projeto/acme_diego_rezende_atividade_02/src/main/java/br/com/acme_diego_rezende_atividade_02/utilitarios"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.acme_diego_rezende_atividade_02.model" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="br.com.acme_diego_rezende_atividade_02.app" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.app.interface" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.acme_diego_rezende_atividade_02.app.caso_de_uso_validacao_cliente" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.app.caso_de_uso_infracao" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.app.Infracoes" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.Exception" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.app.caso_de_uso_suspensao_clientes_inadimplentes" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.acme_diego_rezende_atividade_02.model" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.domain" />
+      <recent name="br.com.acme_diego_rezende_atividade_02.repository.interfaces_repository" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21b1d69-e1ff-42ea-9a62-ffde213a7eb2" name="Changes" comment="" />
+      <created>1688490701719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688490701719</updated>
+    </task>
+    <servers />
+  </component>
+</project>
